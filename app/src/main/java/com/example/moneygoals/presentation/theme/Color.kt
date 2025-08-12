@@ -1,4 +1,4 @@
-package com.example.moneygoals.ui.theme
+package com.example.moneygoals.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
