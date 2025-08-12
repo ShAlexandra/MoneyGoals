@@ -1,4 +1,4 @@
-package com.example.moneygoals.ui.theme
+package com.example.moneygoals.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

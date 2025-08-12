@@ -1,4 +1,4 @@
-package com.example.moneygoals.ui.theme
+package com.example.moneygoals.presentation.theme
 
 import android.app.Activity
 import android.os.Build
